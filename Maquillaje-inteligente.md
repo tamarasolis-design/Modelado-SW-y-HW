@@ -5,4 +5,4 @@ _Proponemos una paleta de sombras de ojos inteligente, que permita la experiment
 _Nuestro usuario objetivo estaría focalizado en niñas y mujeres que deseen vivir una experiencia inmersiva donde puedan experimentar en tiempo real diferentes colores de sombras, blush o tinta de labios_
   
 *Entradas:*
-Los inputs se realizan a través de sensores de capacitivos sobre los colores de la paleta, botones para el encendido y apagado, y una cámara para el reconocimiento facial.
+Los inputs se realizan a través de sensores de capacitivos sobre los colores de la paleta (Senal digital), botones para el encendido y apagado (señal digital), y una cámara para el reconocimiento facial (señal analógica).
